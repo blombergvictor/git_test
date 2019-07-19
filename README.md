@@ -1,1 +1,1 @@
-This is my first git 
+Git tutorial using The Odin Project.
